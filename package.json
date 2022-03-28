@@ -27,7 +27,7 @@
     "@babel/core": "7.17.8",
     "@babel/runtime": "7.17.8",
     "@testing-library/jest-native": "4.0.4",
-    "@testing-library/react-native": "9.0.0",
+    "@testing-library/react-native": "9.1.0",
     "@types/jest": "27.4.1",
     "@types/react": "17.0.43",
     "@types/react-native": "0.67.3",
