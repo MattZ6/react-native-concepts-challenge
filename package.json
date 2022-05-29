@@ -24,8 +24,8 @@
     "react-native-vector-icons": "9.1.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.10",
-    "@babel/runtime": "7.17.9",
+    "@babel/core": "7.18.2",
+    "@babel/runtime": "7.18.3",
     "@testing-library/jest-native": "4.0.5",
     "@testing-library/react-native": "9.1.0",
     "@types/jest": "27.5.1",
