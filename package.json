@@ -37,6 +37,6 @@
     "jest": "28.1.0",
     "metro-react-native-babel-preset": "0.71.0",
     "react-test-renderer": "18.1.0",
-    "typescript": "4.7.2"
+    "typescript": "4.7.3"
   }
 }
